@@ -36,4 +36,4 @@ Feel free to explore my repositories, and don't hesitate to contact me if you ha
 
 - [LinkedIn](https://www.linkedin.com/in/catherena-beresovsky/)
 
-Thank you for visiting my profile. I'm excited about the opportunities the IT world has to offer and to continue learning and growing in this exciting industry!
+Thank you for visiting my profile. I'm excited about the opportunities the IT world has to offer and I'm looking forward to continue learning and growing in this exciting industry!
