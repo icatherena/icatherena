@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, there. I'm Catherena! 
+# Hello, there! 
 
-I'm a hard working, eager to learn, team member. Currently, I'm studying genetics, but my passion for programming has led me to dive into the IT world.
+I'm Catherena, currently training as web-developer. I find it tremendously fullfiling creating end-to-end solutions to enhance performance while still cratfting intuitive user-friendly web applications, so you can take a look at the code I'm currently working on here ⇣
 
 ## About Me
 
