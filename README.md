@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello, there! 
 
-I'm Catherena, currently training as web-developer. I find it tremendously fullfiling creating end-to-end solutions to enhance performance while still cratfting intuitive user-friendly web applications, so you can take a look at the code I'm currently working on here ⇣
+I'm Catherena, currently training as web-developer. I find it tremendously fullfiling creating end-to-end solutions to enhance performance while still cratfting intuitive user-friendly web applications.
 
 ## About Me
 
